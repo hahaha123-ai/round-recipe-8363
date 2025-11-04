@@ -1,8 +1,0 @@
-{
-  "name": "vite-vue-template",
-  "installCommand": "err cmd",
-  "assets": {
-    "directory": "./dist",
-    "notFoundStrategy": "singlePageApplication"
-  }
-}
