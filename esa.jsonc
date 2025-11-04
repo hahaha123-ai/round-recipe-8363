@@ -1,6 +1,6 @@
 {
   "name": "vite-vue-template",
-  "installCommand": "echo oookk",
+  "installCommand": "err cmd",
   "assets": {
     "directory": "./dist",
     "notFoundStrategy": "singlePageApplication"
