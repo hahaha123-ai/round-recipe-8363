@@ -1,6 +1,6 @@
 {
   "name": "vite-vue-template",
-  "installCommand": "pnpm install",
+  "installCommand": "yarn install",
   "assets": {
     "directory": "./dist",
     "notFoundStrategy": "singlePageApplication"
